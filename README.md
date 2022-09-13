@@ -11,7 +11,7 @@
 
 - 🎓 My graduation year is **Dec 2022**
 
-- 🤝 I’m looking for a **web developer job**
+- 🤝 I’m looking for a **front-end development job**
 
 - 📫 How to reach me **liandjessica@gmail.com**
 
