@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiali120&label=Profile%20views&color=0e75b6&style=flat" alt="jiali120" /> </p>
 
-- 📚 I’m currently studying at **University of Maryland, College Park Campus**
+- 📚 I’m currently studying at **University of Maryland, College Park**
 
 - 💻 My major are **Information Science** and **Studio Art**
 
