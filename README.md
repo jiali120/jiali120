@@ -37,5 +37,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiali120&show_icons=true&locale=en" alt="jiali120" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jiali120&" alt="jiali120" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiali120&" alt="jiali120" /></p>
 
