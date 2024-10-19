@@ -8,7 +8,7 @@
 
 - 📚 I’m currently studying at **Georgia Institute of Technology**
 
-- 💻 My major are **Computer Science**
+- 💻 My major is **Computer Science**
 
 - 🎓 My graduation year is **Dec 2025**
 
