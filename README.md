@@ -1,6 +1,6 @@
 <img align="center" alt="coding" height="380" width="1200" src="https://wr.nbwbw.com/addons/dnsb_56b/resources/img/loading.gif">
 <h1 align="center">Hi 👋, I'm Jia Li</h1>
-<h3 align="center">I am a software engineer </h3>
+<h3 align="center">I am a Data Analyst</h3>
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiali120&label=Profile%20views&color=0e75b6&style=flat" alt="jiali120" /> </p>
