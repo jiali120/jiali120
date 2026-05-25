@@ -6,11 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jiali120&label=Profile%20views&color=0e75b6&style=flat" alt="jiali120" /> </p>
 <img align="right" alt="Coding" width="430" height="450" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-- 📚 I’m currently studying at **Georgia Institute of Technology**
+- 📚 Graduate school: **Georgia Institute of Technology**
+  📚 Undergraduate school: **University of Maryland, College Park**.
 
-- 💻 My major is **Computer Science**
+- 💻 Graduate major: **Computer Science**
+  💻 Undergraduate major: **Information Science**
 
-- 🎓 My graduation year is **Dec 2025**
+- 🎓 Date of Graduation from Graduate School: **May 2026**
 
 - 📫 How to reach me **liandjessica@gmail.com**
 
